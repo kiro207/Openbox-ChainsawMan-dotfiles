@@ -1,0 +1,38 @@
+#Brum Brum(ChainsawMan-Dotfile)Theme
+[global]
+font = "Comfotaa Regular 10"
+short = yes 
+geometry = "300x3-25+25"
+alignment = center
+word_wrap = yes
+separator_height = 2
+padding = 10
+corner_radius = 20
+horizontal_padding = 10
+separator_color = frame
+startup_notification = true
+
+[frame]
+width = 2
+color = "2b2c3c"
+
+[urgency_low]
+timeout = 3
+background = "#2b2c2c"
+foreground = "#df1818"
+highlight = "#fffffff"
+
+[urgency_normal]
+timeout = 6
+background = "#2b2c2c"
+foreground = "#df1818"
+highlight = "#fffffff"
+
+[urgency_critical]
+timeout = 0
+background = "#2b2c2c"
+foreground = "#df1818"
+highlight = "#ffffff"
+
+[ChainsawMan]
+appname = "ChainsawMan"
