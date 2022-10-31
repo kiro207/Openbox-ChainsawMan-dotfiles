@@ -26,6 +26,8 @@
 * `Nitrogen` - El del Wallpaper
 * `Fuente`- **Confortaa**
 
+![Preview2](https://github.com/kiro207/Openbox-ChainsawMan-dotfiles/blob/master/Preview2.png)
+
 ## Instalación
 
 > **Clone el Repo.**
