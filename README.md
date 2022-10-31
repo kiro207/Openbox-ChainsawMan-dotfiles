@@ -1,6 +1,6 @@
 ## ChainsawMan-Dotfile
 
-![]
+![Preview1](https://github.com/kiro207/Openbox-ChainsawMan-dotfiles/blob/master/Preview.png)
 
 **Mi primer Dotfile Anime basado en Chainsaw Man, otra de mis configuraciones (quiero ser** **humilde pero es que joder...es la mejor que he echo, me quede super satisfecho), otra vez**
 **use archivos de Internet como los iconos**
